@@ -13,7 +13,7 @@ A simple 2D game developed as part of the 1337/42 school curriculum. The player 
 ## Installation
 1. **Clone the repository:**
    ```sh
-git clone <repo-url>
+git clone [<https://github.com/YubieTheSAVAGE/42-)>](https://github.com/YubieTheSAVAGE/42-so_long.git)
 cd so_long
 ```
 2. **Install dependencies:**
